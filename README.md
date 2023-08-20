@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitRathore1&show_icons=true&theme=transparent)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RohitRathore1&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
 <!--
 **RohitRathore1/RohitRathore1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

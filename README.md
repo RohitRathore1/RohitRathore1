@@ -34,9 +34,9 @@ YAML               4 hrs 1 min     ▒░░░░░░░░░░░░░░
 <hr/>
 
 <p>
-  <img src="https://wakatime.com/share/@TeAmp0is0N/0205e68a-e5ed-48bf-b870-3c94c1fa77d3.svg" width="300" height="320">
-  <img src="https://wakatime.com/share/@TeAmp0is0N/3935ee43-08a3-493e-8b95-60c1f9204b15.svg" width="48" height="320">
-  <img src="https://wakatime.com/share/@TeAmp0is0N/8717aacc-7340-44e0-abb1-987dc9823fcd.svg" width="480" height="320">
+  <img src="https://wakatime.com/share/@TeAmp0is0N/0205e68a-e5ed-48bf-b870-3c94c1fa77d3.svg" width="300" height="200">
+  <img src="https://wakatime.com/share/@TeAmp0is0N/3935ee43-08a3-493e-8b95-60c1f9204b15.svg" width="300" height="200">
+  <img src="https://wakatime.com/share/@TeAmp0is0N/8717aacc-7340-44e0-abb1-987dc9823fcd.svg" width="300" height="200">
 </p>
 
 

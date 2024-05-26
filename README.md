@@ -13,16 +13,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2020 - To: 24 May 2024
+From: 08 August 2020 - To: 25 May 2024
 
-Total Time: 634 hrs 17 mins
+Total Time: 634 hrs 25 mins
 
 Julia                      177 hrs 56 mins ███████░░░░░░░░░░░░░░░░░░   28.05 %
 R                          114 hrs 44 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
 Markdown                   103 hrs 28 mins ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
 Python                     68 hrs 50 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
 YAML                       34 hrs 52 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-JavaScript                 29 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+JavaScript                 29 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 C++                        17 hrs 59 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 Bash                       11 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 HTML                       11 hrs 18 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %

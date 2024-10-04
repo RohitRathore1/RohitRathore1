@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2020 - To: 02 October 2024
+From: 08 August 2020 - To: 03 October 2024
 
-Total Time: 894 hrs 22 mins
+Total Time: 894 hrs 35 mins
 
-Python                     279 hrs 14 mins ███████▓░░░░░░░░░░░░░░░░░   31.22 %
-Julia                      177 hrs 56 mins █████░░░░░░░░░░░░░░░░░░░░   19.90 %
+Python                     279 hrs 27 mins ███████▓░░░░░░░░░░░░░░░░░   31.24 %
+Julia                      177 hrs 56 mins █████░░░░░░░░░░░░░░░░░░░░   19.89 %
 Markdown                   114 hrs 49 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
 R                          114 hrs 44 mins ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
 YAML                       43 hrs 48 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %

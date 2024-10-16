@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2020 - To: 14 October 2024
+From: 08 August 2020 - To: 15 October 2024
 
 Total Time: 897 hrs 46 mins
 

@@ -13,9 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2020 - To: 16 January 2025
+From: 08 August 2020 - To: 17 January 2025
 
-Total Time: 934 hrs 11 mins
+Total Time: 934 hrs 20 mins
 
 Python                     305 hrs 45 mins ████████▒░░░░░░░░░░░░░░░░   32.73 %
 Julia                      177 hrs 56 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ ![](https://komarev.com/ghpvc/?username=RohitRathore1&color=blueviolet)
+
 <hr/>
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohitRathore1&show_icons=true&theme=transparent)

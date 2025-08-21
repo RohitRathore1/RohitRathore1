@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2020 - To: 19 August 2025
+From: 08 August 2020 - To: 20 August 2025
 
-Total Time: 1,286 hrs 23 mins
+Total Time: 1,286 hrs 24 mins
 
-Python                     463 hrs 21 mins █████████░░░░░░░░░░░░░░░░   36.02 %
+Python                     463 hrs 22 mins █████████░░░░░░░░░░░░░░░░   36.02 %
 Julia                      177 hrs 56 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
 Markdown                   148 hrs 30 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
 R                          114 hrs 44 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
